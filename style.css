@@ -1,0 +1,17 @@
+
+            body {
+                font-family: 'Arial', sans-serif;
+                text-align: center;
+            }
+            #welcomeMessage {
+                    margin: 20px;
+        }
+            
+        #outputContainer {
+            margin-top: 50px;
+        }
+        p {
+            margin: 5px;
+        
+        }
+    
